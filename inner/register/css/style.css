@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: auto;
+}
+.header{
+    display: flex;
+    height: 940px;
+    background-color:#37FF8F;
+      font-family: 'Montserrat', sans-serif;
+
+}
+.square {
+    height: 300px;
+    width: 350px;
+    background-color: white;
+    margin: auto;
+    border-radius: 50px;
+  }
+input{
+  margin-top: 30px;
+  margin-left: 20px;
+  display: flex;
+    width: 300px;
+    height: 20px;
+}
+  .register{
+    color: orange;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    list-style: none;
+  }
+  

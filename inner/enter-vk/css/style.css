@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: auto;
+}
+.ne-header{
+    display: flex;
+    height: 940px;
+    background-color:#37FF8F;
+      font-family: 'Montserrat', sans-serif;
+
+}
+.square {
+    height: 300px;
+    width: 400px;
+    background-color: white;
+    margin: auto;
+    border-radius: 50px;
+  }
+ .picture{
+     display: flex;
+      height: 45px;
+      width: 50px;
+      margin-left: 20px;
+      margin-top: 30px;
+  }
+.vk{  
+display: flex;
+margin-left: 20px;
+margin-top: -45px;
+height: 45px;
+width: 350px;
+background-color: #6C86AB;
+border-radius: 10px;
+border: none;
+color: white;
+text-align: center;
+justify-content: center
+  }
+
+  .fc{
+    display: flex;
+    margin-left: 20px;
+    margin-top: -45px;
+    height: 45px;
+    width: 350px;
+    background-color: #4C6FB8;
+    border-radius: 10px; 
+    border: none;
+    color: white;
+justify-content: center
+  }
+  .steam{
+    display: flex;
+    margin-left: 20px;
+    margin-top: -45px;
+    height: 45px;
+    width: 350px;
+    background-color:black;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    justify-content: center
+  } 
+  
+  .join{
+    display: flex;
+    justify-content: center;
+    color: orange;
+  }
+  .register{
+    color: orange;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  
